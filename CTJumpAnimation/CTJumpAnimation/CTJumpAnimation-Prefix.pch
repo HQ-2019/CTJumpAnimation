@@ -1,0 +1,22 @@
+//
+//  CTJumpAnimation-Prefix.pch
+//  CTJumpAnimation
+//
+//  Created by HQ on 15/8/22.
+//  Copyright (c) 2015年 HQ. All rights reserved.
+//
+
+#ifndef CTJumpAnimation_CTJumpAnimation_Prefix_pch
+#define CTJumpAnimation_CTJumpAnimation_Prefix_pch
+
+#import "UIViewExt.h"
+
+#import "CTPercentDrivenInteractiveTransition.h"
+#import "CTPresentTransition.h"
+#import "CTDismissTransition.h"
+#import "CTPushTransition.h"
+#import "CTPopTransition.h"
+#import "CTInteractiveTransition.h"
+
+
+#endif
